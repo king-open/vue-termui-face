@@ -48,6 +48,12 @@ yarn create vue-termui my-vue-tui-app
 pnpm create vue-termui my-vue-tui-app
 ```
 
+### run 
+
+``` bash
+nr dev 
+```
+
 ## Help me keep working on this project 💚
 
 - [Become a Sponsor on GitHub](https://github.com/sponsors/posva)
